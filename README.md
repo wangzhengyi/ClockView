@@ -5,3 +5,4 @@
 ****
 # **第一版实现界面**
 
+![first_version](https://raw.githubusercontent.com/wangzhengyi/ClockView/master/screenshots/device-2016-01-20-004506.png)
